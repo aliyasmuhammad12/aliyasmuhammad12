@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Aliyas 👋
 
-<!--
-**aliyasmuhammad12/aliyasmuhammad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack Expert  
+💡 I specialize in building scalable, real-time, and visually rich web applications using React.js, Node.js, and modern UI frameworks.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn UI, Framer Motion
+- **Backend:** Node.js, Express.js, MongoDB, Firebase, WebSockets
+- **Tools:** Git, GitHub, VSCode, Vercel, Postman, TanStack Query, Redux Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- ✈️ [EasyDrop Travel](https://easydroptravel.com)
+- 🧠 [Ideometrix](https://ideometrix.com)
+- 🔧 [Skyset Logistics](https://skysetlogistics.com)
+- 🎞️ [Video Editing App](https://editingwebsite.vercel.app)
+
+### 🌍 Open to Work
+I’m open to **freelance, remote, or full-time** roles on global teams. I love working with modern stacks, building performant UI, and delivering clean code.
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/aliyas-muhammad/)
+- [GitHub](https://github.com/aliyasmuhammad12)
+- Email: aliyasdev@gmail.com *(or your actual contact)*
+
+---
+⭐️ *Thanks for visiting my profile! Feel free to check out my work and reach out if you'd like to collaborate.*
