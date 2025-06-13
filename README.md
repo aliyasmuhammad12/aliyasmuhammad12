@@ -24,3 +24,6 @@ I’m open to **freelance, remote, or full-time** roles on global teams. I love 
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to check out my work and reach out if you'd like to collaborate.*
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=aliyasmuhammad12&style=flat-square&color=blue)
+
